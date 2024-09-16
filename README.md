@@ -4,7 +4,6 @@
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
     <h1>Welcome</h1>
-    <p>This is an HTML page that I created in TextEdit.</p>
     <hr/>
     <h1 id="top"> Quick Links </h1>
     <a href="#Resume"> Resume </a><br />
