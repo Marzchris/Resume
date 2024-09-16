@@ -2,7 +2,7 @@
 <html>
   <head>
   <h1><em>Christian</em> Martines Portfolio<h1>
-    <p><img src="" alt="Bird" Width="100" hight="100"/> </p>
+    <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   </head>
   <body>
     <h1>Welcome</h1>
@@ -31,7 +31,6 @@ Team Lead & Life Insurance Sales Representative
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
 <p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
 <p><a href="#top">Back to the  Top</a></p>
-<p><img src="personal photo.jpeg" alt="Bird" Width="100" hight="100"/> </p>
 
     
     
