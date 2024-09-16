@@ -2,6 +2,7 @@
 <html>
   <head>
   <h1><em>Christian</em> Martines Portfolio<h1>
+    <p><img src="" alt="Bird" Width="100" hight="100"/> </p>
   </head>
   <body>
     <h1>Welcome</h1>
