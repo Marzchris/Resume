@@ -28,7 +28,7 @@ Team Lead & Life Insurance Sales Representative
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
 <p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
 <p><a href="#top">Back to the  Top</a></p>
-   <form action="https://formsubmit.co/chris.marz12927@gmail.com" method="POST">
+   <form action="https://formsubmit.co/el/deniwu" method="POST">
     <p>What do you think of my website?</p>
     <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea><br>
     <input type="submit" value="Submit">
