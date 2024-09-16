@@ -1,6 +1,6 @@
 # web page 
 <html>
-  <h1><em>Christian</em> Martinez Portfolio<h1><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/>
+  <h1><em>Christian</em> Martinez Portfolio<h1><img src="bauer-college-of-business-secondary.png" alt="Collage Photo" Width="175" hight="175"/>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
     <h1>Welcome</h1>
@@ -28,7 +28,8 @@ Team Lead & Life Insurance Sales Representative
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
 <p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
 <p><a href="#top">Back to the  Top</a></p>
-
-    
-    
-  
+   <form action="https://formsubmit.co/your-email@example.com" method="POST">
+    <p>What do you think of my website?</p>
+    <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea><br>
+    <input type="submit" value="Submit">
+</form>
