@@ -28,7 +28,9 @@ Team Lead & Life Insurance Sales Representative
 <p>Welcome to my projects page, where I showcase my work as a Management Information Systems (MIS) major. Each project reflects my commitment to leveraging technology to solve real-world business challenges. Currently, this website serves as a demonstration of my skills in web development, design, and project management. In the future, I will be adding more projects that highlight my experience in data analysis, systems integration, and process optimization, all aimed at driving results and innovation.</p>
 <h2 id="Contact_Information">Contact Information</h2>
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
-<p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank"></p>
+<p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
+<p><a href="#top">Back to the  Top</a></p>
+<p><img src="file:///Users/christianmartinez/Desktop/IMG_4205.jpeg" alt="Bird" Width="100" hight="100"/> </p>
 
     
     
