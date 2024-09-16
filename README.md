@@ -2,7 +2,6 @@
 <html>
   <h1><em>Christian</em> Martines Portfolio<h1>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
-  </head>
   <body>
     <h1>Welcome</h1>
     <p>This is an HTML page that I created in TextEdit.</p>
