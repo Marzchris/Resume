@@ -1,6 +1,6 @@
 # web page 
 <html>
-  <h1><em>Christian</em> Martines Portfolio<h1>
+  <h1><em>Christian</em> Martinez Portfolio<h1><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
     <h1>Welcome</h1>
