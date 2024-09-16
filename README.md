@@ -30,7 +30,7 @@ Team Lead & Life Insurance Sales Representative
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
 <p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
 <p><a href="#top">Back to the  Top</a></p>
-<p><img src="file:///Users/christianmartinez/Desktop/IMG_4205.jpeg" alt="Bird" Width="100" hight="100"/> </p>
+<p><img src="istockphoto-890289344-1024x1024.jpg" alt="Bird" Width="100" hight="100"/> </p>
 
     
     
