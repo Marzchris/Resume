@@ -45,3 +45,34 @@ Team Lead & Life Insurance Sales Representative
       h1[
       color: rgb(255,255,255) ; ] </style> 
     </fieldset>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <style>
+        /* CSS to style the h1 element and fieldset */
+        h1 {
+            color: rgb(255, 255, 255);
+        }
+        fieldset {
+            border: 2px solid #ccc;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <fieldset>
+        <legend>Feel free to leave contact details!</legend>
+        <label>Email:<br>
+            <input type="text" name="email" />
+        </label><br>
+        <label>Mobile:<br>
+            <input type="text" name="Mobile" />
+        </label><br>
+        <label>Telephone:<br>
+            <input type="text" name="Telephone" />
+        </label><br>
+    </fieldset>
+
