@@ -33,19 +33,7 @@ Team Lead & Life Insurance Sales Representative
     <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea><br>
     <input type="submit" value="Submit">
 </form>
-    <fieldset>
-      <h1><legend>Feel free to leave contact details!</legend></h1>
-      <label>Email:<br /> 
-      <input type="text" name ="email" /></label><br /> 
-   <label>Mobile:<br /> 
-      <input type="text" name ="Mobile" /></label><br /> 
-      <label>Telephone:<br /> 
-      <input type="text" name ="Telephone" /></label><br /> 
-      <style type=text/css"
-      h1[
-      color: rgb(255,255,255) ; ] </style> 
-    </fieldset>
-
+    
 <html lang="en">
 <head>
     <meta charset="UTF-8">
