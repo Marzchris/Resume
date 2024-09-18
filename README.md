@@ -7,8 +7,8 @@
     <title>Christian Martinez Portfolio</title>
     <style>
         body {
-            background-color: rgb(221,161,94); /* Make sure to include semicolons */
-            color: rgb(254,250,224); /* Add a semicolon here as well */
+            background-color: rgb(245,235,224); /* Make sure to include semicolons */
+            color: rgb(163,177,138); /* Add a semicolon here as well */
         }
     </style>
 </head>
