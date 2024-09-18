@@ -5,8 +5,8 @@
   <body>
     <style>
     body {
-        background-color: black; /* Sets background color to black */
-        color: white; /* Sets text color to white */
+        background-color: rgb(224,24,25)
+        color: rgb(46,12,98)
     }
 </style>
     <h1>Welcome</h1>
