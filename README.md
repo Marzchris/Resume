@@ -1,6 +1,6 @@
 # web page 
 <html>
-  <h1><em>Christian</em> Martinez Portfolio<h1><img src="bauer-college-of-business-secondary.png" alt="Collage Photo" Width="175" hight="175"/>
+  <h1><em>Christian</em> Martinez Portfolio<h1><img src="bauer-college-of-business-secondary.png" alt="Collage Photo" Width="180" hight="150"/>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
     <h1>Welcome</h1>
@@ -33,13 +33,12 @@ Team Lead & Life Insurance Sales Representative
     <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea><br>
     <input type="submit" value="Submit">
 </form>
-
-<form action="https://formsubmit.co/el/deniwu">
-<p> Are you a PC, Playstation, or Xbox player ?</p>
-<select name="Platforms" size="3"
-Multiple="multiple">
-  <option value="PC" selected="selected">Pc</option>
-<option value="Playstation">Playstation</option>
-<option value="Xbox"
-selected="selected">Xbox</option>
-</form> 
+    <fieldset>
+      <legend>Feel free to leave contact details!</legend>
+      <label>Email:<br /> 
+      <input type="text" name ="email" /></label><br /> 
+   <label>Mobile:<br /> 
+      <input type="text" name ="Mobile" /></label><br /> 
+      <label>Telephone:<br /> 
+      <input type="text" name ="Telephone" /></label><br /> 
+    </fieldset>
