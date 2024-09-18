@@ -5,8 +5,8 @@
   <body>
     <style>
     body {
-        background-color: rgb(224,24,25)
-        color: rgb(46,12,98)
+        background-color: rgb(221,161,94)
+        color: rgb(254,250,224)
     }
 </style>
     <h1>Welcome</h1>
@@ -48,7 +48,7 @@ Team Lead & Life Insurance Sales Representative
     <style>
         /* CSS to style the h1 element and fieldset */
         h1 {
-            color: rgb(245, 13, 13);
+            color: rgb(96,108,56);
         }
         fieldset {
             border: 2px solid #ccc;
