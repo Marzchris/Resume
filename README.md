@@ -33,3 +33,13 @@ Team Lead & Life Insurance Sales Representative
     <textarea name="comments" cols="20" rows="4" placeholder="Enter your comments..."></textarea><br>
     <input type="submit" value="Submit">
 </form>
+
+<form action="https://formsubmit.co/el/deniwu">
+<p> Are you a PC, Playstation, or Xbox player ?</p>
+<select name="Platforms" size="3"
+Multiple="multiple">
+  <option value="PC" selected="selected">Pc</option>
+<option value="Playstation">Playstation</option>
+<option value="Xbox"
+selected="selected">Xbox</option>
+</form> 
