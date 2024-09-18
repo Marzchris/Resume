@@ -3,6 +3,12 @@
   <h1><em>Christian</em> Martinez Portfolio<h1><img src="bauer-college-of-business-secondary.png" alt="Collage Photo" Width="180" hight="150"/>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
+    <style>
+    body {
+        background-color: black; /* Sets background color to black */
+        color: white; /* Sets text color to white */
+    }
+</style>
     <h1>Welcome</h1>
     <hr/>
     <h1 id="top"> Quick Links </h1>
