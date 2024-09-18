@@ -8,7 +8,7 @@
     <style>
         body {
             background-color: rgb(245,235,224); /* Make sure to include semicolons */
-            color: rgb(163,177,138); /* Add a semicolon here as well */
+            color: rgb( 52, 78, 65); /* Add a semicolon here as well */
         }
     </style>
 </head>
