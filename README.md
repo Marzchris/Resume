@@ -54,7 +54,7 @@ Team Lead & Life Insurance Sales Representative
     <style>
         /* CSS to style the h1 element and fieldset */
         h1 {
-            color: rgb(255, 255, 255);
+            color: rgb(245, 13, 13);
         }
         fieldset {
             border: 2px solid #ccc;
