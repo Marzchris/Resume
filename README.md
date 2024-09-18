@@ -1,14 +1,21 @@
 # web page 
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christian Martinez Portfolio</title>
+    <style>
+        body {
+            background-color: rgb(221,161,94); /* Make sure to include semicolons */
+            color: rgb(254,250,224); /* Add a semicolon here as well */
+        }
+    </style>
+</head>
+  <body>
   <h1><em>Christian</em> Martinez Portfolio<h1><img src="bauer-college-of-business-secondary.png" alt="Collage Photo" Width="180" hight="150"/>
     <p><img src="IMG_3555.jpeg" alt="Personal Photo" Width="150" hight="150"/> </p>
   <body>
-    <style>
-    body {
-        background-color: rgb(221,161,94)
-        color: rgb(254,250,224)
-    }
-</style>
     <h1>Welcome</h1>
     <hr/>
     <h1 id="top"> Quick Links </h1>
@@ -30,6 +37,7 @@ Team Lead & Life Insurance Sales Representative
 <li>Championed a collaborative, goal-driven culture, ensuring high client satisfaction</li>
 <h2 id="Projects">Projects</h2>
 <p>Welcome to my projects page, where I showcase my work as a Management Information Systems (MIS) major. Each project reflects my commitment to leveraging technology to solve real-world business challenges. Currently, this website serves as a demonstration of my skills in web development, design, and project management. In the future, I will be adding more projects that highlight my experience in data analysis, systems integration, and process optimization, all aimed at driving results and innovation.</p>
+    </body>
 <h2 id="Contact_Information">Contact Information</h2>
 <p><a href="mailto:Chris.marz12927@gmail.com">Email</a></p>
 <p><a href="http://www.linkedin.com/in/christian-martinezuh" target="_blank">Linkden</a></p>
